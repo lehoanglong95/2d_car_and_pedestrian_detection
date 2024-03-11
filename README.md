@@ -1,6 +1,6 @@
 # Car and Pedestrian Detection
-![Raw Image](https://freeimage.host/i/pedestrian.JW20j1t)
-![Car and Pedestrian Destection](https://ibb.co/FhjVvnx)
+<img src="https://freeimage.host/i/pedestrian.JW20j1t">
+<img src="https://ibb.co/FhjVvnx">
 
 ## Overview
 
