@@ -1,6 +1,6 @@
 # Car and Pedestrian Detection
-![Raw Image](test_images/pedestrian.jpeg)
-![Car and Pedestrian Destection](output_imgs/pedestrian_prediction_yolov3.jpg)
+![Raw Image](./test_images/pedestrian.jpeg)
+![Car and Pedestrian Destection](./output_imgs/pedestrian_prediction_yolov3.jpg)
 
 ## Overview
 
