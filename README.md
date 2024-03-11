@@ -1,6 +1,6 @@
 # Car and Pedestrian Detection
-![Raw Image](https://github.com/lehoanglong95/2d_car_and_pedestrian_detection/test_images/pedestrian.jpeg)
-![Car and Pedestrian Destection](https://github.com/lehoanglong95/2d_car_and_pedestrian_detection/output_imgs/pedestrian_prediction_yolov3.jpg)
+![Raw Image](https://ibb.co/dr7KpYj)
+![Car and Pedestrian Destection](https://ibb.co/FhjVvnx)
 
 ## Overview
 
