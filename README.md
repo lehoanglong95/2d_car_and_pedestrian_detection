@@ -1,21 +1,40 @@
-## **THIS IS SOURCE CODE FOR FINAL EXAM OF DEEP LEARNING COURSE.**
+# Car and Pedestrian Detection
+![Raw Image](test_images/pedestrian.jpeg)
+![Car and Pedestrian Destection](output_imgs/pedestrian_prediction_yolov3.jpg)
 
-### _**AUTHOR: Le Hoang Long - Sejong University**_
-* Install python packages: pip install -r requirement.txt
-* Images object detection:
-    * YOLOv2: 
-        * Download "whole_model_trained_yolo_voc" in [YOLO trained models](https://drive.google.com/drive/folders/1Ee6FHQTGuJpNRYSa8DtHWzu4yWNyc7sp).
-        * Copy pretrain model to trained_models
-        * python test_voc_images.py --input your_input_img --output your_output_folder
-    * YOLOv3:
-        * python demo_ssd.py --image_size 512 --input your_input_img --output your_output_folder
-    * SSD512:
-        * python demo_yolo.py --image_size 512 --input your_input_img --output your_output_folder
-* Videos object detection:
-    * YOLOv2:
-        * python test_voc_video.py --input your_input_video --output your_output_folder
-    * YOLOv3:
-        * python demo_video.py --model yolov3 --input your_input_video --output your_output_folder
-    * SSD512:
-        * python demo_video.py --model ssd --input your_input_video --output your_output_folder       
-        
+## Overview
+
+This project focuses on the detection of cars and pedestrians in both 2D images and videos using popular computer vision deep learning algorithms, namely YOLO (You Only Look Once) and SSD (Single Shot Multibox Detector).
+
+## Installation
+
+To run the project locally, execute the following commands:
+
+```bash
+pip install -r requirements.txt
+python demo_yolo.py # for image
+python demo_video.py # for video 
+```
+
+## Methodology
+
+### YOLO (You Only Look Once)
+
+YOLO is a real-time object detection system that can detect multiple objects within an image in a single forward pass of the neural network. It achieves high accuracy and speed by dividing the input image into a grid and predicting bounding boxes and class probabilities directly.
+
+### SSD (Single Shot Multibox Detector)
+
+SSD is another popular object detection algorithm that predicts object bounding boxes and class probabilities simultaneously. It uses a series of convolutional layers to predict a fixed set of bounding boxes with different aspect ratios and scales.
+
+# 🐉 About Me
+
+## Hi, I'm Long - A Data Analyst! 💻
+
+## Author
+
+- [@Long H Le](https://github.com/https://github.com/lehoanglong95)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/https://github.com/lehoanglong95)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-long-le-713b41111/)

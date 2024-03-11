@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="29dcb98f-bffb-49bb-b4b8-dba4db559a55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29dcb98f-bffb-49bb-b4b8-dba4db559a55" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,14 +20,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1dW1pFBkETeTkq34FG4PzvAJFwJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -40,13 +43,42 @@
       <recent name="$PROJECT_DIR$/yolo_v2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test_images" />
       <recent name="$PROJECT_DIR$/output_videos/yolo_v2" />
       <recent name="$PROJECT_DIR$/results_imgs/yolo_v3_darknet" />
       <recent name="$PROJECT_DIR$/results_imgs/yolo_v2" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/yolo_v2" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="demo_yolo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2D_car_and_pedestrian_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_yolo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo_yolo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -64,31 +96,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2940" y="537" width="1021" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592548282103">
-      <screen x="1920" y="0" width="2560" height="1440" />
-    </state>
-    <state x="2940" y="537" width="1021" height="390" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1592548282103" />
-    <state x="3016" y="490" width="424" height="484" key="FileChooserDialogImpl" timestamp="1592526249440">
-      <screen x="1920" y="0" width="2560" height="1440" />
-    </state>
-    <state x="3016" y="490" width="424" height="484" key="FileChooserDialogImpl/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1592526249440" />
-    <state x="2722" y="367" key="SettingsEditor" timestamp="1592530756396">
-      <screen x="1920" y="0" width="2560" height="1440" />
-    </state>
-    <state x="2722" y="367" key="SettingsEditor/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1592530756396" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1592555058956">
-      <screen x="1920" y="0" width="2560" height="1440" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1592555058956" />
-    <state x="2889" y="560" key="com.intellij.ide.util.TipDialog" timestamp="1592530473022">
-      <screen x="1920" y="0" width="2560" height="1440" />
-    </state>
-    <state x="2889" y="560" key="com.intellij.ide.util.TipDialog/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1592530473022" />
-    <state x="2896" y="347" width="672" height="678" key="search.everywhere.popup" timestamp="1592546483838">
-      <screen x="1920" y="0" width="2560" height="1440" />
-    </state>
-    <state x="2896" y="347" width="672" height="678" key="search.everywhere.popup/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1592546483838" />
   </component>
 </project>
